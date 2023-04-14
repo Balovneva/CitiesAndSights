@@ -21,6 +21,10 @@ Cоздан интерфейс API на основе REST для проведе�
 
 Для тестирование API был использован Talend API Tester.
 
+
+<h2 align="center">GET</h2>
+
+
 GET request для объекта City:
 
 
@@ -44,6 +48,9 @@ GET request для объекта Sight:
 
 
 ![image](https://user-images.githubusercontent.com/122821058/232041516-f54ca9a7-9679-473c-b2d4-867b0712b542.png)
+
+
+<h2 align="center">POST</h2>
 
 
 POST request для объекта City:
@@ -81,6 +88,8 @@ POST request для объекта Sight:
 
 ![image](https://user-images.githubusercontent.com/122821058/232018973-0c1516d4-b932-4a89-a8c8-3ccb7aef0a96.png)
 
+<h2 align="center">PATCH</h2>
+
 
 PATCH request для объекта City:
 
@@ -110,6 +119,9 @@ PATCH request для объекта Sight:
 ![image](https://user-images.githubusercontent.com/122821058/232050866-6758ce6b-e4c8-4cb3-bd38-09e6b275760a.png)
 
 ![image](https://user-images.githubusercontent.com/122821058/232050919-456cdaca-2dc3-4640-9b05-2de2de5cd86f.png)
+
+
+<h2 align="center">DELETE</h2>
 
 
 DELETE request для объекта City:
