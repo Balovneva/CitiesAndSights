@@ -98,6 +98,19 @@ PATCH request для объекта City:
 ![image](https://user-images.githubusercontent.com/122821058/232022325-4e55bbf9-6740-48b3-9d01-d46013965692.png)
 ![image](https://user-images.githubusercontent.com/122821058/232022488-e17f6dcd-6963-476b-b159-7e84e283164e.png)
 
+PATCH request для объекта Sight:
+
+
+![image](https://user-images.githubusercontent.com/122821058/232043681-c9b2b82d-f58b-4283-8cb7-e3692d7ae8f6.png)
+![image](https://user-images.githubusercontent.com/122821058/232043767-bdf068d4-255c-478f-818d-732c13b8f89d.png)
+
+Если объекта с таким ID не существует:
+
+
+![image](https://user-images.githubusercontent.com/122821058/232050866-6758ce6b-e4c8-4cb3-bd38-09e6b275760a.png)
+
+![image](https://user-images.githubusercontent.com/122821058/232050919-456cdaca-2dc3-4640-9b05-2de2de5cd86f.png)
+
 
 
 
