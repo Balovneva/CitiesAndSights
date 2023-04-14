@@ -27,7 +27,11 @@ GET request для объекта City:
 ![image](https://user-images.githubusercontent.com/122821058/232020157-faff6f14-baac-4507-8e35-a96d689e2756.png)
 ![image](https://user-images.githubusercontent.com/122821058/232020312-3a410bda-ec0f-451b-a307-26e96ecda308.png)
 
-Если список пуст:
+Если список городов пуст:
+
+
+![image](https://user-images.githubusercontent.com/122821058/232040517-875c6ea4-a180-4c0e-a637-9abcfa49d748.png)
+
 
 GET request для объекта Sight:
 
@@ -35,6 +39,11 @@ GET request для объекта Sight:
 ![image](https://user-images.githubusercontent.com/122821058/232021190-da97cf35-ebf4-4731-8321-9230b2e61a85.png)
 
 ![image](https://user-images.githubusercontent.com/122821058/232020976-294204af-b553-4b2a-ab72-e614373a0f3a.png)
+
+Если список достопримечательностей пуст:
+
+
+![image](https://user-images.githubusercontent.com/122821058/232041516-f54ca9a7-9679-473c-b2d4-867b0712b542.png)
 
 
 POST request для объекта City:
