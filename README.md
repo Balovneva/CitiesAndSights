@@ -112,5 +112,29 @@ PATCH request для объекта Sight:
 ![image](https://user-images.githubusercontent.com/122821058/232050919-456cdaca-2dc3-4640-9b05-2de2de5cd86f.png)
 
 
+DELETE request для объекта City:
+
+По номеру ID:
+
+![image](https://user-images.githubusercontent.com/122821058/232055182-c0a8ba79-2d65-413d-a652-3b47097b301f.png)
+
+Очистить сразу весь список городов:
+
+![image](https://user-images.githubusercontent.com/122821058/232054273-df862105-696d-4019-85b2-7c36da37f61e.png)
+
+
+DELETE request для объекта Sight:
+
+
+По номеру ID:
+
+
+![image](https://user-images.githubusercontent.com/122821058/232053277-ab1d0715-1b69-4a0c-84cf-43595246b212.png)
+
+
+Очистить сразу весь список достопримечательностей:
+
+
+![image](https://user-images.githubusercontent.com/122821058/232053575-2e15f5df-cdf9-45a9-8f26-0ca07c1825b0.png)
 
 
