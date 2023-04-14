@@ -10,6 +10,10 @@ Java v17.0.6
 
 Cоздан интерфейс API на основе REST для проведения CRUD операций над объектами. 
 
+
+Инструкция по запуску: https://docs.google.com/document/d/17mWE4gGwC8tjSPbJYHsswo_J_W7hpl0x/edit?usp=sharing&ouid=103002682866459275054&rtpof=true&sd=true
+
+
 Связь объектов @OneToMany в базе данных:
 
 
