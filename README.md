@@ -17,6 +17,22 @@ Cоздан интерфейс API на основе REST для проведе�
 
 Для тестирование API был использован API Tester.
 
+GET request для объекта City:
+
+
+![image](https://user-images.githubusercontent.com/122821058/232020157-faff6f14-baac-4507-8e35-a96d689e2756.png)
+![image](https://user-images.githubusercontent.com/122821058/232020312-3a410bda-ec0f-451b-a307-26e96ecda308.png)
+
+Если список пуст:
+
+GET request для объекта Sight:
+
+
+![image](https://user-images.githubusercontent.com/122821058/232021190-da97cf35-ebf4-4731-8321-9230b2e61a85.png)
+
+![image](https://user-images.githubusercontent.com/122821058/232020976-294204af-b553-4b2a-ab72-e614373a0f3a.png)
+
+
 POST request для объекта City:
 
 
@@ -51,3 +67,24 @@ POST request для объекта Sight:
 
 
 ![image](https://user-images.githubusercontent.com/122821058/232018973-0c1516d4-b932-4a89-a8c8-3ccb7aef0a96.png)
+
+
+PATCH request для объекта City:
+
+
+![image](https://user-images.githubusercontent.com/122821058/232021858-d408d135-7432-42d6-be66-d12e3f356b2e.png)
+![image](https://user-images.githubusercontent.com/122821058/232021949-0df04ef9-5f35-4bf7-bcc9-7af123cce565.png)
+
+В базе данных:
+
+![image](https://user-images.githubusercontent.com/122821058/232022103-51c58002-c778-4a9a-aaf8-7ddcadfb95ed.png)
+
+
+Если объекта с таким ID не существует:
+
+![image](https://user-images.githubusercontent.com/122821058/232022325-4e55bbf9-6740-48b3-9d01-d46013965692.png)
+![image](https://user-images.githubusercontent.com/122821058/232022488-e17f6dcd-6963-476b-b159-7e84e283164e.png)
+
+
+
+
