@@ -17,7 +17,8 @@ Cоздан интерфейс API на основе REST для проведе�
 Связь объектов @OneToMany в базе данных:
 
 
-![00000000](https://user-images.githubusercontent.com/122821058/232010232-30fb5717-2507-4565-99e6-544f7ce72671.png)
+![entityManagerFactory(EntityManagerFactoryBuilder, PersistenceManagedTypes)2](https://user-images.githubusercontent.com/122821058/233125709-d97efb6d-5673-4c28-848f-3f7338d04733.png)
+
 
 Для тестирование API был использован Talend API Tester.
 
