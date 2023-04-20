@@ -14,10 +14,11 @@ Cоздан интерфейс API на основе REST для проведе�
 Инструкция по запуску: https://docs.google.com/document/d/1Xv1jVHBs9Uy0PUB9VCtlijK0E4kMtiNi/edit?usp=sharing&ouid=103002682866459275054&rtpof=true&sd=true
 
 
-Связь объектов @OneToMany в базе данных:
+Связь объектов в базе данных:
 
 
-![entityManagerFactory(EntityManagerFactoryBuilder, PersistenceManagedTypes)2](https://user-images.githubusercontent.com/122821058/233125709-d97efb6d-5673-4c28-848f-3f7338d04733.png)
+![entityManagerFactory(EntityManagerFactoryBuilder, PersistenceManagedTypes)2](https://user-images.githubusercontent.com/122821058/233285615-5d16618d-126f-44fc-9b32-1ab80078e28f.png)
+
 
 
 Для тестирование API был использован Talend API Tester.
